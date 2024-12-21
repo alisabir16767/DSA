@@ -1,0 +1,1 @@
+{"name":"Local: InsertionSortPractice","url":"/Users/raes/Desktop/DSA/recursion/InsertionSortPractice.cpp","tests":[{"id":1694753920731,"input":"1 3 2 6 4 5 9","output":"1 2 3 4 5 6 9"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/raes/Desktop/DSA/recursion/InsertionSortPractice.cpp","group":"local","local":true}
